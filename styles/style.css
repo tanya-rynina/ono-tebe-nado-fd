@@ -192,10 +192,9 @@ body {
 .cover__description-text {
   margin: 0;
   font-size: 22px;
-  letter-spacing: 0.12em;
   color: #fff;
   text-transform: uppercase;
-  word-spacing: 10px;
+  word-spacing: 15px;
   font-weight: 400;
 }
 
