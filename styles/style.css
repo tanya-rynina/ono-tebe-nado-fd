@@ -99,9 +99,7 @@ body {
   align-items: flex-start;
   text-align: left;
   max-width: 240px;
-
   padding-right: 0;
-  line-height: 1.6;
   font-size: 18px;
   line-height: 100%;
   text-decoration-thickness: 1px;
@@ -215,7 +213,7 @@ body {
   text-transform: uppercase;
   z-index: 2;
   font-weight: 500;
-  font-size: 22px; 
+  font-size: 22px;
 }
 
 
