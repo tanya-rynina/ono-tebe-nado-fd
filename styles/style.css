@@ -372,7 +372,7 @@ body {
 
 .footer {
   max-width: 1100px;
-  max-height: 180px;
+  min-height: 180px;
   margin: 60px auto 40px auto;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
