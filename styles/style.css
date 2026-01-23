@@ -56,8 +56,8 @@ body {
   align-items: center;
 }
 
-.header .header__address .address__text,
-.header .header__address a {
+.header__address .address__text,
+.header__address a {
   max-width: 236px;
 }
 
